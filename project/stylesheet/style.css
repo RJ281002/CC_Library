@@ -1,0 +1,72 @@
+.set{
+    height: 200px;
+    width: 250px;
+    object-fit: contain;
+  }
+  h3{
+      font-size: xxx-large;
+      background: lightslategrey;
+      margin: revert;
+  }
+  .setimg{
+    height: 600px;
+    width: 800px;
+    object-fit: cover;
+    opacity:0.7;
+  }
+  .capitalize{
+    text-transform: capitalize;
+  }
+  .btn1{
+      margin-top: 75px;
+  }
+  .slide{
+    margin-top: 60px;
+  }
+  .showcard{
+    margin-top: 5%;
+    margin-left: 25%;      
+    margin-right: 25%;
+    padding:10px;
+    width: auto;
+  }
+  .showcardimage{
+    height:450px;
+    width: 600px;
+    margin:auto;
+    object-fit: contain;
+  }
+  .bgcol{
+    background: black;
+  }
+  .card-img-top{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    object-fit: contain;
+  }
+  .card-body{
+    background: azure;
+  }
+  .listimg{
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    object-fit: contain;
+  }
+  .modal-body{
+    background: antiquewhite;
+  }
+  .editset{
+    height: 300px;
+    width: 350px;
+    object-fit: contain;
+  }
+  .edittop{
+    margin-top:100px;
+  }
+  h2{
+    font-size: xxx-large;
+    background: lightslategrey;
+    margin: revert;
+  }
