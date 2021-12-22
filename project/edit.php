@@ -19,7 +19,7 @@
             <button class="btn btn-outline-success" type="submit" name="go">Book List</button>
         </form>
     </div>
-    <!-- end of header -->
+    
     <?php
         $conn =mysqli_connect('localhost', 'root', '', 'books');
         if(isset($_GET['edit']))
