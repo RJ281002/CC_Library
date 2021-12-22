@@ -67,7 +67,6 @@
         </button>
       </div>
     </div>
-    <!-- end of header -->
 
     <!-- starting of add book page -->
     <section>
