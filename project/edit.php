@@ -30,7 +30,7 @@
             $row = mysqli_fetch_array($result);
         }
     ?>
-    <!-- starting of add book page -->
+    <!-- starting of edit book page -->
     <section >
         <center class="container content-align-center edittop"><h2><small class="text-dark"><b>Update Details</b></small></h2></center>
         
